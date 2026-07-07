@@ -22,7 +22,7 @@ import './styles.css';
 
 const patientPhoto =
   'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1400&q=82';
-const therapyPhoto = '/images/hero-treatment.png';
+const therapyPhoto = './images/hero-treatment.png';
 const doctorPhoto =
   'https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=900&q=82';
 const staffPhoto =
